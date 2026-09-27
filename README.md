@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Raffi Hamzah! 👋
 
-<!--
-**Raffihazet/Raffihazet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A high school student passionate about **Data Science**, **Computational Logic**, and **Software Engineering**. 
 
-Here are some ideas to get you started:
+- 🎓 Preparing for higher education in **Data Science** & practicing for competitive logic tournaments (e.g., NLC ITS).
+- 💡 Exploring advanced Python, discrete mathematics, algorithm complexity, and data structures.
+- 🛠️ Creator of **Hashcutor**, a Python-based cashflow management application with local JSON data storage.
+- 🎯 Long-term goal: Pursuing international higher education on a scholarship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+- **Languages:** Python
+- **Concepts:** Data Structures, Algorithms, Discrete Mathematics
+- **Tools:** Git, GitHub, JSON Storage
+
+---
+*“Balancing rigorous scientific curiosity with ethical and spiritual values.”*
